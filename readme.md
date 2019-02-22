@@ -90,7 +90,7 @@ export HIVE_CONF_DIR=/opt/hive/conf/
 ...
 # Guardar cambios
  ```
-  **4: Cargar la base de datos(definición de metadatos) que viene por defecto(derby)**
+  **5: Cargar la base de datos(definición de metadatos) que viene por defecto(derby)**
   
   Situarse en el directorio donde tenemos instalado hive, en mi caso **/opt/hive**  y escribir el siguiente comando: 
  ```sh
